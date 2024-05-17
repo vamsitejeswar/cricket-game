@@ -1,1 +1,1 @@
-# Cricket_game
+# Cricket-game
